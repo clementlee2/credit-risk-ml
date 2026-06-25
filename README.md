@@ -1,4 +1,3 @@
-# credit-risk-ml
 # Credit Default Prediction: Does Modern ML Beat Altman (1968)?
 
 This project benchmarks four credit risk models — spanning 55 years of methodology, from Altman's 1968 discriminant analysis to a modern XGBoost ensemble — on a single, controlled task: predicting a corporate credit rating downgrade within 12 months.
